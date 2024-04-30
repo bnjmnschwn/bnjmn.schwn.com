@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bnjmn.schwn.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on bnjmn.schwn.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Benjamin Schwan</copyright>
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coaching</title>
+      <link>http://localhost:1313/coaching/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/coaching/</guid>
+      <description> Improvement is not about doing more things right, but about doing less things wrong. Since my studies I have been a coach for a variety of different athletes. From starters and recreational up to Continental level cyclists &amp;amp; qualifiers for IRONMAN World Championships.
+I&#39;m interested in getting coached</description>
+      
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>http://localhost:1313/posts/start/</link>
+      <pubDate>Mon, 22 Apr 2024 22:23:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/start/</guid>
+      <description>This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Hello
+Lol
+aska
+askdlasdka asdkasda
+asdkadsa
+aehoaed dajks dajskda dsaksdasdasda da
+sdajk</description>
+      
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>http://localhost:1313/projects/start/</link>
+      <pubDate>Mon, 22 Apr 2024 22:23:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/projects/start/</guid>
+      <description>This is bold text, and this is emphasized text.
+Visit the Hugo website!
+Hello
+Lol
+aska
+askdlasdka asdkasda
+asdkadsa
+aehoaed dajks dajskda dsaksdasdasda da
+sdajk</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/mypost/mypost/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/mypost/mypost/</guid>
+      <description>text</description>
+      
+    </item>
+    
+    <item>
+      <title>XCODATA</title>
+      <link>http://localhost:1313/projects/xcodata/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/xcodata/</guid>
+      <description>text</description>
+      
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://localhost:1313/photography/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/photography/</guid>
+      <description>I have always been interested in the beautiful things in life and aestethics of photos. When my wife was pregnant with our first child I bought myself a camera to be able to capture (hopefully) good pictures of our son and us as a family. This turned, faster then I thought, into a hobby.</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello Go!
+This is a very cool and short text about myself.
+Ideally it would also be a little bit funny etc.
+I don&amp;rsquo;t get why this fucking date does not disappear.
+Resume # Experience # Company Role Time MATS Product Owner Dec 2022 - Present Saarländischer Radfahrer Bund Mountainbike Federation Coach Oct 2020 - Nov 2022 HYCYS (former STAPS) Sports Scientist &amp;amp; Coach Sep 2017 - Oct 2020 Education # University Degree Year Saarland University MSc Sports Science 2017 Saarland University BA Sports Science 2015 </description>
+      
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>http://localhost:1313/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/imprint/</guid>
+      <description>Responsible for content # Benjamin Schwan
+Lottenhammer 40a
+66386 Rentrisch
+Information in accordance with Section 5 TMG # Lottenhammer 40a
+66386 Rentrisch
+Contact Information # E-Mail: bnjmn@schwn.com</description>
+      
+    </item>
+    
+  </channel>
+</rss>
