@@ -8,6 +8,9 @@ showAuthor: false
 showDate: false
 ---
 
+<!-- <div class="min-w-100"> -->
+I recently started photography as a hobby. So here's a small collection of photos that I consider presentable.
+    
 
 {{< gallery >}}
     <img src="gallery/BS-01.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
@@ -29,4 +32,3 @@ showDate: false
     <img src="gallery/BS-17.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
     <img src="gallery/BS-18.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
-
