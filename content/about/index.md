@@ -6,7 +6,6 @@ showAuthor: false
 showReadingTime:  false
 showTableOfContents: true
 showPagination: false
-
 ---
 
 Hello Go!

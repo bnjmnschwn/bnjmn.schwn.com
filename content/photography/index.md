@@ -1,13 +1,13 @@
-+++
-title = "Photography"
-tags = ["photos", "gallery"]
-date = "2023-01-02"
-showPagination = false
-showReadingTime = false
-showViews = false
-showAuthor = false
-showDate = false
-+++
+---
+title: "Photography"
+tags: ["photos", "gallery"]
+date: "2023-01-02"
+showPagination: false
+showReadingTime: false
+showViews: false
+showAuthor: false
+showDate: false
+---
 
 
 I have always been interested in the beautiful things in life and aestethics of photos.
@@ -15,5 +15,7 @@ When my wife was pregnant with our first child I bought myself a camera to be ab
 This turned, faster then I thought, into a hobby.
 
 {{< gallery >}}
-    <img src="gallery/background.JPG" class="w33">
+    <img src="gallery/background.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/background2.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/background2.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
