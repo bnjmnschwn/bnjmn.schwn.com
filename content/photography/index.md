@@ -1,7 +1,6 @@
 ---
 title: "Photography"
 tags: ["photos", "gallery"]
-date: "2023-01-02"
 showPagination: false
 showReadingTime: false
 showViews: false
@@ -10,12 +9,24 @@ showDate: false
 ---
 
 
-I have always been interested in the beautiful things in life and aestethics of photos.
-When my wife was pregnant with our first child I bought myself a camera to be able to capture (hopefully) good pictures of our son and us as a family.
-This turned, faster then I thought, into a hobby.
-
 {{< gallery >}}
-    <img src="gallery/background.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
-    <img src="gallery/background2.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
-    <img src="gallery/background2.JPG" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-01.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-02.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-03.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-04.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-05.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-06.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-07.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-08.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-09.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-10.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-11.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-12.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-13.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-14.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-15.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-16.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-17.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
+    <img src="gallery/BS-18.jpg" alt="" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
+

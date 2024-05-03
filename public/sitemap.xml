@@ -35,13 +35,12 @@
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/photography/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/about/</loc>
   </url>
   <url>
     <loc>http://localhost:1313/imprint/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/photography/</loc>
   </url>
 </urlset>

@@ -2,19 +2,13 @@
 title: "About"
 showViews: false
 showDate: false
-showAuthor: false
+showAuthor: true
 showReadingTime:  false
 showTableOfContents: true
 showPagination: false
+
 ---
-
-Hello Go!
-
-This is a very cool and short text about myself.
-
-Ideally it would also be a little bit funny etc.
-
-I don't get why this fucking date does not disappear.
+ 
 
 ## Resume
 
