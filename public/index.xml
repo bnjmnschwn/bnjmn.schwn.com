@@ -38,24 +38,6 @@ sdajk</description>
     </item>
     
     <item>
-      <title>Start</title>
-      <link>http://localhost:1313/projects/start/</link>
-      <pubDate>Mon, 22 Apr 2024 22:23:29 +0200</pubDate>
-      
-      <guid>http://localhost:1313/projects/start/</guid>
-      <description>This is bold text, and this is emphasized text.
-Visit the Hugo website!
-Hello
-Lol
-aska
-askdlasdka asdkasda
-asdkadsa
-aehoaed dajks dajskda dsaksdasdasda da
-sdajk</description>
-      
-    </item>
-    
-    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/mypost/mypost/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
@@ -106,7 +88,7 @@ Contact Information # E-Mail: bnjmn@schwn.com</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/photography/</guid>
-      <description>I recently started photography as a hobby. So here&amp;rsquo;s a small collection of photos that I consider presentable.</description>
+      <description>I recently started photography as a hobby. So here’s a small collection of photos that I consider presentable.</description>
       
     </item>
     
