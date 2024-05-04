@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bnjmn.schwn.com</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bnjmn.schwn.com/</link>
     <description>Recent content on bnjmn.schwn.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Benjamin Schwan</copyright>
-    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bnjmn.schwn.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coaching</title>
-      <link>http://localhost:1313/coaching/</link>
+      <link>https://bnjmn.schwn.com/coaching/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/coaching/</guid>
+      <guid>https://bnjmn.schwn.com/coaching/</guid>
       <description> Improvement is not about doing more things right, but about doing less things wrong. Since my studies I have been a coach for a variety of different athletes. From starters and recreational up to Continental level cyclists &amp;amp; qualifiers for IRONMAN World Championships.
 I&#39;m interested in getting coached</description>
       
@@ -21,10 +21,10 @@ I&#39;m interested in getting coached</description>
     
     <item>
       <title>Start</title>
-      <link>http://localhost:1313/posts/start/</link>
+      <link>https://bnjmn.schwn.com/posts/start/</link>
       <pubDate>Mon, 22 Apr 2024 22:23:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/start/</guid>
+      <guid>https://bnjmn.schwn.com/posts/start/</guid>
       <description>This is bold text, and this is emphasized text.
 Visit the Hugo website!
 Hello
@@ -39,40 +39,40 @@ sdajk</description>
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/mypost/mypost/</link>
+      <link>https://bnjmn.schwn.com/posts/mypost/mypost/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/mypost/mypost/</guid>
+      <guid>https://bnjmn.schwn.com/posts/mypost/mypost/</guid>
       <description>text</description>
       
     </item>
     
     <item>
       <title>XCODATA</title>
-      <link>http://localhost:1313/projects/xcodata/</link>
+      <link>https://bnjmn.schwn.com/projects/xcodata/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       
-      <guid>http://localhost:1313/projects/xcodata/</guid>
+      <guid>https://bnjmn.schwn.com/projects/xcodata/</guid>
       <description>text</description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://bnjmn.schwn.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://bnjmn.schwn.com/about/</guid>
       <description> Resume # Experience # Company Role Time MATS Product Owner Dec 2022 - Present Saarländischer Radfahrer Bund Mountainbike Federation Coach Oct 2020 - Nov 2022 HYCYS (former STAPS) Sports Scientist &amp;amp; Coach Sep 2017 - Oct 2020 Education # University Degree Year Saarland University MSc Sports Science 2017 Saarland University BA Sports Science 2015 </description>
       
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>http://localhost:1313/imprint/</link>
+      <link>https://bnjmn.schwn.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/imprint/</guid>
+      <guid>https://bnjmn.schwn.com/imprint/</guid>
       <description>Responsible for content # Benjamin Schwan
 Lottenhammer 40a
 66386 Rentrisch
@@ -84,10 +84,10 @@ Contact Information # E-Mail: bnjmn@schwn.com</description>
     
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/photography/</link>
+      <link>https://bnjmn.schwn.com/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photography/</guid>
+      <guid>https://bnjmn.schwn.com/photography/</guid>
       <description>I recently started photography as a hobby. So here’s a small collection of photos that I consider presentable.</description>
       
     </item>
